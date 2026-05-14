@@ -1,0 +1,2 @@
+# stockApp
+A simple frontend
